@@ -1,0 +1,13 @@
+{
+  "name": "alisherjumaev/dbcrudlib",
+  "description": "Bir nechta ma'lumotlar bazalarini qo'llab-quvvatlaydigan simple CRUD tizimi",
+  "require": {
+    "php": ">=7.4",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
